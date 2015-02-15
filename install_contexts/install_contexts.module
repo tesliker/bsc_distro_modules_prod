@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the install_contexts feature.
+ */
+
+include_once 'install_contexts.features.inc';

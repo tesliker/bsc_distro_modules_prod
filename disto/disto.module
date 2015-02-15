@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the disto feature.
+ */
+
+include_once 'disto.features.inc';
